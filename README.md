@@ -4,14 +4,13 @@ Un menu F5 simple et configurable pour votre serveur FiveM, développé avec le 
 
 ## 📸 Aperçu (Preview)
 
-*(Optionnel : Il est fortement recommandé d'ajouter ici une ou plusieurs captures d'écran de votre menu pour montrer à quoi il ressemble !)*
+Les captures d’écran ne sont pas encore documentées.
 
 ## ✨ Fonctionnalités
 
 *   **Interface Intuitive** : Navigation simple et claire grâce à RageUI.
 *   **Entièrement Configurable** : Modifiez facilement les options, les touches et les permissions depuis le fichier `config.lua`.
 *   **Optimisé** : Le script est conçu pour être léger et ne pas impacter les performances de votre serveur (0.00ms au repos).
-*   *(Ajoutez ici d'autres fonctionnalités, par exemple : "Menu joueur", "Options véhicule", "Menu admin", etc.)*
 
 ## 📋 Prérequis
 
@@ -44,9 +43,17 @@ Par défaut, appuyez sur la touche **F5** pour ouvrir et fermer le menu. Vous po
 
 ## 📝 Crédits
 
-*   **Développement du script** : [Votre Nom / Pseudo ici]
+*   **Développement du script** : SYX
 *   **Framework UI** : Un grand merci à ImRage pour son excellent travail sur RageUI.
 
 ## 📄 Licence
 
-*(Optionnel : C'est une bonne pratique de choisir une licence pour votre projet. Si vous ne savez pas laquelle choisir, des sites comme choosealicense.com peuvent vous aider. La licence MIT est un choix populaire pour les projets open-source.)*
+Consultez les conditions de licence du dépôt avant redistribution.
+
+---
+
+## Auteur et maintenance
+
+**SYX** — [GitHub @syxezyou](https://github.com/syxezyou).
+
+Pour signaler un problème, indiquez la version utilisée, les étapes de reproduction et les messages d’erreur pertinents, sans publier de secrets ni d’identifiants.
